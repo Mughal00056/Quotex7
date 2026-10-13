@@ -1,0 +1,6 @@
+{
+  "name": "Quotex Trading Platform",
+  "description": "Quotex online trading platform featuring live charts, customizable menu with PIN security, technical indicators, and modern glassmorphic interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
